@@ -1,0 +1,28 @@
+.background-image {
+    background-image: url('https://img.freepik.com/free-photo/stone-surface-background_53876-31787.jpg?size=626&ext=jpg&ga=GA1.1.1224184972.1714262400&semt=ais');
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    position: static;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+th {
+    background-color: #f2f2f2;
+}
+
+.video {
+    width: 560px; 
+    height: 315px;
+    display: block;
+    margin: 3.5em;
+}
+
+.starters {
+    border: 5px solid #555;
+}
